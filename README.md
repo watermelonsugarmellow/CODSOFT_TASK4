@@ -1,0 +1,1 @@
+A hybrid movie recommender that combines content-based filtering (TF-IDF and cosine similarity on genres and descriptions) with collaborative filtering (ratings from similar users). It explains each recommendation, supports new users, and includes a leave-one-out accuracy test in which the hybrid scored best.
